@@ -1,8 +1,7 @@
 # SQL 30 Hours Crash Course 🚀
 > One query at a time.
 
-This repository documents personal SQL learning progress  from basic SELECT statements to advanced analytical queries.  
-Each folder represents a specific topic with example `.sql` scripts and short notes.
+This repository documents personal SQL learning progress  from basic SELECT statements to advanced analytical queries. Each folder represents a specific topic with example `.sql` scripts and short notes.
 
 
 
