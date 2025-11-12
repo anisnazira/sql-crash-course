@@ -9,7 +9,6 @@ This repository documents personal SQL learning progress  from basic SELECT stat
 
 | Folder | Topic | Notes |
 |--------|--------|--------|
-| `0_intro` | Basics of SQL, database concepts | [View Notes](0_intro/notes.md) |
 | `1_querying_data` | SELECT, WHERE, ORDER BY | [View Notes](1_querying_data/notes.md) |
 | `2_data_definition` | CREATE, ALTER, DROP (DDL) | [View Notes](2_data_definition/notes.md) |
 | `3_data_manipulation` | INSERT, UPDATE, DELETE (DML) | [View Notes](3_data_manipulation/notes.md) |
